@@ -1,4 +1,4 @@
-# Simple-LogIn-Page_Using_Python_Flask
+# Simple_LogIn_Page
 Make sure that you have flask installed in your PC.
 
 Steps:
